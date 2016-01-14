@@ -9,5 +9,5 @@
 * git add readme.md
 * git commit -m "Primeiro Commit!"
 * git status 
-* git pull origin master
+* git push origin master
 
